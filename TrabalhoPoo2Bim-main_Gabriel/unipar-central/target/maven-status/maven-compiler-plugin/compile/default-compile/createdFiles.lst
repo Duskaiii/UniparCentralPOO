@@ -1,0 +1,12 @@
+br\unipar\unipar\central\Exceptions\EntidadeNaoPreenchidaExceptions.class
+br\unipar\unipar\central\Main.class
+br\unipar\unipar\central\Exceptions\EntidadeNaoInformadaException.class
+br\unipar\unipar\central\Models\Endereco.class
+br\unipar\unipar\central\Models\Estado.class
+br\unipar\unipar\central\Models\Pais.class
+br\unipar\unipar\central\Models\Pessoa.class
+br\unipar\unipar\central\Models\Telefone.class
+br\unipar\unipar\central\Enums\TipoPessoaEnum.class
+br\unipar\unipar\central\Exceptions\EntidadePreenchidaIncorretamente.class
+br\unipar\unipar\central\Services\PaisService.class
+br\unipar\unipar\central\Models\Cidade.class
